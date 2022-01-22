@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter (Dart)**
 
-- 👯 I’m looking to collaborate on **Unity Game Projects**
-
-- 💬 Ask me about **Game Dev & General Programming things**
-
 - 📫 How to reach me **abdullah982@pm.me**
-
-- ⚡ Fun fact **I design games since I was 8**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
