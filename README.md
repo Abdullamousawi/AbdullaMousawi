@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter (Dart)**
 
-- 📫 How to reach me **abdullah982@pm.me**
+- 📫 Contact me: **abdullah982@pm.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
