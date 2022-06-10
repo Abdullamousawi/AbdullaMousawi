@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Carhythm (Video Game)**
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 📫 Contact me: **abdullah982@pm.me**
 
