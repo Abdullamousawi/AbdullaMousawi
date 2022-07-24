@@ -7,7 +7,7 @@
 
 - 📫 Contact me: **abdullah982@pm.me**
 
-- 💡 Portfolio: <a href="abdullamousawi.github.io/portfolio" target="_blank">abdullamousawi.github.io/portfolio</a>
+- 💡 Portfolio: <a href="http://abdullamousawi.github.io/portfolio" target="_blank">abdullamousawi.github.io/portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
