@@ -17,8 +17,8 @@
 
 <h3 align="left">Projects I worked on:</h3>
 
-- (Video Game) <a href="https://mousawidev.itch.io/rhombus" target="_blank">Rhombus<a/>
-- (Video Game) <a href="https://mousawidev.itch.io/two-eyes" target="_blank">Two Eyes<a/>
-- (Video Game) <a href="https://mousawidev.itch.io/one-click-away" target="_blank">One Click Away<a/>
+- (Video Game) <a href="https://hypedcloud.itch.io/rhombus" target="_blank">Rhombus<a/>
+- (Video Game) <a href="https://hypedcloud.itch.io/two-eyes" target="_blank">Two Eyes<a/>
+- (Video Game) <a href="https://hypedcloud.itch.io/one-click-away" target="_blank">One Click Away<a/>
 - (Video Game) <a href="https://play.google.com/store/apps/details?id=com.MousawiDev.Horizontal" target="_blank">Horizontal<a/>
 - (Video Game) <a href="https://play.google.com/store/apps/details?id=com.MousawiDev.Vertical" target="_blank">Vertical<a/>
