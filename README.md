@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulla Mousawi</h1>
 <h3 align="center">A computer scientist and game developer</h3>
 
-- 🔭 I’m currently working on **Carhythm (Video Game)**
+- 🔭 I’m currently working on **Towers Shutdown (Video Game)**
 
-- 🌱 I’m currently learning **Flutter & Dart**
+- 🌱 I’m currently learning **Advanced C# Topics**
 
 - 📫 Contact me: **abdullah982@pm.me**
 
