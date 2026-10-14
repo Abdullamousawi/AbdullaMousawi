@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah AlMousawi</h1>
 <h3 align="center">A computer scientist and game developer</h3>
 
-- 🔭 I’m currently working on **Rhombus (Video Game)**
-
-- 🌱 I’m currently learning **Data Analysis**
-
-- 📫 Contact me: **abdullah982@pm.me**
-
 - 💡 Portfolio: <a href="http://abdullamousawi.github.io/portfolio" target="_blank">abdullamousawi.github.io/portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
